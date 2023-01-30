@@ -4,7 +4,7 @@ Montagem de um dashboard com base no conjunto de banco de dados disponibilizado 
 
 # Utilizamos:
 
-Power BI, MySQL e Xhamps.
+Power BI, MySQL e Xampp.
 
 
 ##  Consultas:
